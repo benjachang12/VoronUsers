@@ -12,7 +12,7 @@ Comes in 4 flavors:
 4. `chamber_separator_bme280.stl`BME280 + Magnetic Pogo-Pin Connector
 
 ## Required Parts:
-* M3x8 SHCS (2x) for mounting
+* M3x8 BHCS (2x) for mounting
 
 ## Notes: 
 Center-to-center distance for mounting to the two vertical z extrusions may vary due to assembly differences.
