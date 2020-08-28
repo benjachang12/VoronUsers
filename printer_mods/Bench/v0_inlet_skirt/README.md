@@ -1,6 +1,6 @@
 # V0 Switched, Filtered, and Fused Inlet Skirt
 
-![Image](./images/inlet_skirt.png) 
+![Image](./images/inlet_skirt.jpg) 
 
 This inlet skirt is designed to specifically house the snap-in filtered & fused c14 inlet listed below. The inlet snaps in flush to maintain a low profile and match the aesthetics of the existing skirts.
 
