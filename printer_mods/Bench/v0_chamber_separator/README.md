@@ -13,6 +13,9 @@ Comes in 4 flavors:
 
 ## Required Parts:
 * M3x8 BHCS (2x) for mounting
+* *Optional:* BME280 temperature/humidity sensor (something like this https://amzn.com/B01N47LZ4P)
+* *Optional:* 4 pin magnetic pogo-pin connector (https://www.aliexpress.com/item/4000364241421.html?spm=a2g0s.9042311.0.0.7e564c4dXrh1B7)
+
 
 ## Notes: 
 Center-to-center distance for mounting to the two vertical z extrusions may vary due to assembly differences.
