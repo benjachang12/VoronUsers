@@ -6,7 +6,7 @@ This inlet skirt is designed to specifically house the snap-in filtered & fused 
 
 ## Required Parts:
 * C14 Filtered Inlet (https://amzn.com/B009180QPQ)
-* M3x8 SHCS (2x) for mounting
+* M3x8 BHCS (2x) for mounting
 
 ## Files: 
 * `inlet_skirt.stl`: for mounting the inlet on the right side of the printer
