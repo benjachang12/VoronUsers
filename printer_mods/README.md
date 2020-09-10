@@ -29,6 +29,14 @@ like so:
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|
+|Bench|[V0 LEDs with Pogopins](./Bench/v0_tophat_leds_with_pogopins)|V0 tophat LED solution with quick disconnect magnetic pogo-pins|:heavy_check_mark:|:x:|:x:|
+| |[V0 Filtered Exhaust](./Bench/v0_filtered_exhaust)|V0 filtered exhaust solution for abs fumes with V2 carbon filters|:heavy_check_mark:|:x:|:x:|
+| |[V0 Webcam Mount](./Bench/v0_webcam_mount)|V0 webcam mount for Octoprint|:heavy_check_mark:|:x:|:x:|
+| |[V0 Filament Sensor](./Bench/v0_filament_runout_sensor)|V0 filament runout sensor with microswitch directly mounted after pocketwatch|:heavy_check_mark:|:x:|:x:|
+| |[V0 Chamber Separator](./Bench/v0_chamber_separator)|V0 chamber separator and bowden retainer with BME280 integration|:heavy_check_mark:|:x:|:x:|
+| |[V0 Inlet Skirt](./Bench/v0_inlet_skirt)|V0 inlet skirt for filtered, fused, switched C14 inlet|:heavy_check_mark:|:x:|:x:|
+| |[V0 Cable Chain Mount](./Bench/v0_cable_chain_mount)|V0 mounts and clips for cable chain and bed cable management|:heavy_check_mark:|:x:|:x:|
+| |[V0 DC Converter Mount](./Bench/v0_dcdc_converter_mount)|V0 alternate frame and weld mounts for 5V DCDC Converter|:heavy_check_mark:|:x:|:x:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: | 
