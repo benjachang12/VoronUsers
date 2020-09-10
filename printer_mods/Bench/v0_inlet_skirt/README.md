@@ -20,19 +20,5 @@ This inlet skirt is designed to specifically house the snap-in filtered & fused 
 ## Additional Images:
 ![Image](./images/inlet_skirt.png) 
 
-![Image](./images/inlet_skirt.png) 
 
-![Image](./images/inlet_skirt.png) 
-
-![Image](./images/inlet_skirt.png) 
-
-gallery:
-  - url: /images/inlet_skirt_separate.jpg
-    image_path: /images/inlet_skirt_separate.jpg
-    title: "Unassembled"
-  - url: /images/inlet_skirt_assembled.jpg
-    title: "Assembled"
-
-
-
-{% include gallery id="gallery" class="full" caption="V0 Inlet Skirt Gallery." %}
+<img src="./images/inlet_skirt.jpg" width="30%"></img> <img src="./images/inlet_skirt_separate.jpg" width="30%"></img> <img src="./images/inlet_skirt_assembled.jpg" width="30%"></img> 
