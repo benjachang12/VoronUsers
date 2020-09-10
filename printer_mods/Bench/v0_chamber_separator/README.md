@@ -15,17 +15,17 @@ Comes in 2 flavors:
 * *Optional:* M3x6 BHCS (2x) for mounting BME280 (threads directly into plastic)
 
 ## BME280 Configuration:
-### Wiring to Raspberry Pi via i2c:
+#### Wiring to Raspberry Pi via i2c:
 For both RPi 3 and 4B, wire as follows:
-VCC --> 1 (3.3V)
-GND --> 9 (Ground)
-SCL --> 5 (GPIO3 / SCL)
-SDA --> 3 (GPIO2 / SDA)
+* VCC --> 1 (3.3V)
+* GND --> 9 (Ground)
+* SCL --> 5 (GPIO3 / SCL)
+* SDA --> 3 (GPIO2 / SDA)
 
-### Configure Raspberry Pi as secondary MCU:
+#### Configure Raspberry Pi as secondary MCU:
 https://github.com/KevinOConnor/klipper/blob/master/docs/RPi_microcontroller.md
 
-### Klipper Configuration:
+#### Klipper Configuration:
 Add the following lines to your Klipper config
 ```
 # Raspberry Pi 4B
@@ -41,16 +41,16 @@ i2c_bus: i2c.1
 gcode_id: C
 ```
 
-### Usage:
-See https://github.com/KevinOConnor/klipper/blob/master/config/sample-macros.cfg for gcode macros
-In order to enable chamber temperature to display on your Octoprint Temperature Tab like below, enable `Heated Chamber` in your Octoprint printer profile.
+#### Usage:
+* See https://github.com/KevinOConnor/klipper/blob/master/config/sample-macros.cfg for gcode macros
+* In order to enable chamber temperature to display on your Octoprint Temperature Tab like below, enable `Heated Chamber` in your Octoprint printer profile.
 <img align="center" src="./images/chamber_temp.png" width="50%">
 
 
 ## Notes: 
 * Center-to-center distance for mounting to the two vertical z extrusions may vary due to assembly differences. Feel free to modify the included STEP file.
-* Supports are included as part of the stl for the BME280 variation, remember to remove them prior to installing the inlet.
-* Mounting holes and cutouts are tested for the linked module above only, might not work for other boards.
+* Supports are included as part of the stl for the BME280 variation, remember to remove them prior to installing the sensor.
+* Mounting holes and cutouts are tested for the BME280 module linked above only, might not work for other boards.
 
 ## Additional Images:
 <img src="./images/chamber_separator_top.jpg" width="30%"></img> <img src="./images/chamber_separator_rear.jpg" width="30%"></img> <img src="./images/chamber_separator_below.jpg" width="30%"></img> 
