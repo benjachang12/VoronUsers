@@ -1,6 +1,6 @@
 # V0 Filtered Exhaust
 
-<img align="center" src="./images/filtered_exhaust.jpg" width="75%">
+<img align="center" src="./images/filtered_exhaust.jpg" width="85%">
 
 Voron 0 filtered exhaust solution that fits nicely inside of the back compartment of the printer. The exhaust uses 6010 axial fan + the V2 BOM spec activated carbon filter. Can't really comment on the efficacy of this solution in removing odors/particles, but the exhaust is pulled through 3 layers of the carbon filter so it's better than nothing... The exhaust requires cutting out a hole in the back panel.
 

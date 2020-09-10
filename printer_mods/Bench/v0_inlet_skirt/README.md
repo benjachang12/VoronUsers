@@ -1,6 +1,6 @@
 # V0 Switched, Filtered, and Fused Inlet Skirt
 
-<img align="center" src="./images/inlet_skirt.jpg" width="75%">
+<img align="center" src="./images/inlet_skirt.jpg" width="85%">
 
 This inlet skirt is designed to specifically house the snap-in filtered & fused c14 inlet listed below. The inlet snaps in flush to maintain a low profile and match the aesthetics of the existing skirts. The skirt itself has some very thing walls since there is not much available space, but so far strength and stiffness havent been an issue (just be careful not to plug in the power cord too hard). Due to the large footprint of the filtered inlet, repositioning of the power supply, skr mini, and 5v converter is necessary. I mounted my inlet on the right side of the printer, and had to swap the positions of the power supply and skr mini, and move the 5v converter to the back of the printer. 
 
